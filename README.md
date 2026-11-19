@@ -91,4 +91,5 @@ O projeto consiste na realização de consultas SQL no banco de dados `hospital_
 **Ferramenta utilizada:** MySQL Workbench  
 **Banco de dados:** hospital_db  
 **Linguagem:** SQL
+
 **Autora:** Gabrielli
